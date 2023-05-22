@@ -3,7 +3,7 @@
     margin-top: 100px;
     width: 700px;
     border: solid 1px;
-    border-radius: 20px;
+    border-radius: 15px;
     padding: 50px;
 }
 .container1 h1{
@@ -29,7 +29,7 @@
 }
 .row3 button{
     width: 100%;
-    border-radius: 10px;
+    border-radius: 15px;
     background-color: rgb(21, 21, 21);
     color: orangered;
 }
